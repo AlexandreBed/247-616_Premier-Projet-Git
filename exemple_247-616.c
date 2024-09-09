@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
 {
-  printf("allo");
+  printf("\nolla\n");
   return 0;
 }
